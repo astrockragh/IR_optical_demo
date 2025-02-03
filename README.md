@@ -26,4 +26,6 @@ pip install -r requirements.txt
 jupyter notebook IR_optical_demo.ipynb
 ```
 
+You can also run this notebook in Google Colab, but make sure to install the ```requirements.txt```.
+
 [![Open the notebook in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astrockragh/IR_optical_demo/blob/main/IR_optical_demo.ipynb)
