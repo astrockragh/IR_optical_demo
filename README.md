@@ -23,6 +23,7 @@ Clone the repo and fire up the notebook:
 git clone https://github.com/astrockragh/IR_optical_demo.git
 cd IR_optical_demo
 pip install -r requirements.txt
-jupyter notebook IR_optical_demo.ipynb```
+jupyter notebook IR_optical_demo.ipynb
+```
 
 [![Open the notebook in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astrockragh/IR_optical_demo/blob/main/IR_optical_demo.ipynb)
