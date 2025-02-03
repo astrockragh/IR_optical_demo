@@ -1,1 +1,1 @@
-# IR_optical_demo
+# Demonstrating how to connect the optical and IR

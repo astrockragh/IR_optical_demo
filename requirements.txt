@@ -1,0 +1,10 @@
+torch>=2.0.1
+numpy>=1.24.0
+matplotlib>=3.6.3
+tqdm>=4.64.0
+ipython>=8.30.0
+spender  # Not versioned, install manually if needed
+accelerate  # Not versioned, install manually if needed
+pandas>=1.5.3
+scipy>=1.9.3
+scikit-learn>=1.1.3
