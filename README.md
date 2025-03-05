@@ -4,7 +4,7 @@
 Galaxies aren’t just a random mashup of independent components — they are **deeply interconnected** ecosystems. However, traditional models still assume that optical and infrared (IR) emission come from separate, weakly linked processes. 
 Here we show that **they do not.**  
 
-This repo contains a Jupyter Notebook that demonstrates how to **disprove the old paradigm** by using a **data-driven model** to predict **infrared photometry** from optical spectra with **excellent accuracy** (we’re talking **(\$\chi^2_N \approx 1\$)** for all WISE bands!).  
+This repo contains a Jupyter Notebook that demonstrates how to **disprove the old paradigm** by using a **data-driven model** to predict **infrared photometry** from optical spectra with **excellent accuracy** (we’re talking **(χ² ≈ 1** for all WISE bands!).  
 
 ## 💡 Why should you care?  
 - **Unlock Hidden Insights** – We prove that the separability assumption in galaxy modeling is fundamentally flawed.
